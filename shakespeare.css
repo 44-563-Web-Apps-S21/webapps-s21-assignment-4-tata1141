@@ -1,0 +1,29 @@
+.speech{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    color: black ;
+}
+.name{
+    font-size: large;
+    font-family: Verdana, Tahoma, sans-serif;
+    color:black;
+}
+.stage-direction{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: lightskyblue;
+
+}
+.stage-direction:hover{
+    /* background-color: limegreen; */
+    color: red;
+    background-color:lightgoldenrodyellow ;
+}
+.PRINCE-HENRY{
+    color: #FF9933;
+
+}
+.POINS{
+    color:#138808;
+}
