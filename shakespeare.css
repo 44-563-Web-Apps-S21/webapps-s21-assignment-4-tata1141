@@ -48,3 +48,8 @@ table {
     margin-right: 100px;
     margin-left: 150px;
   }
+  .name:hover{
+    text-shadow:2.5px 4px 5px grey ;
+    margin: 10px 13em 15pt 1%;
+    border-style: dashed dotted solid none; 
+  }
