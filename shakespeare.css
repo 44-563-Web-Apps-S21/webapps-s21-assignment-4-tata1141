@@ -53,3 +53,42 @@ table {
     margin: 10px 13em 15pt 1%;
     border-style: dashed dotted solid none; 
   }
+  img{
+    width:50px;
+    height:50px;
+    margin-left: 40px;
+    border-radius: 15px;
+  }
+  
+img:hover{
+    transition: transform 2s;
+    transform: scaleX(1.1);
+    /* transform: rotate(360deg); */
+}
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar li{
+    float: left;
+    background: rgb(61, 141, 61);
+}
+.navbar a{
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    color: white;
+}
+
+.navbar a:hover{
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+    border-radius: 2px;
+}
+.background{
+    background-image: url("London.jpg");
+    color: white;
+}
